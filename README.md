@@ -1,6 +1,9 @@
 # Bson to Json converter
 
 >Simple project to convert bson to json.
+> 
+>Have few functions to parse data from special mongoDB dump. 
+> Just delete it, if don't needed.
 
 Installation
 ------------
